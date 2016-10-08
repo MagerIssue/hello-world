@@ -140,7 +140,7 @@ h1 {
 
 mark {
   background: #f00;
-  background-image:http://cf.pizzazzerie.com/wp-content/uploads/2015/08/party-food-mini-cheeseburgers-pizzazzerie2.jpg;
+  background-image: url(http://cf.pizzazzerie.com/wp-content/uploads/2015/08/party-food-mini-cheeseburgers-pizzazzerie2.jpg);no-repeat
   color: #000;
 }
 
