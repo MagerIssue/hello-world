@@ -56,7 +56,6 @@ video {
   display: inline-block; /* 1 */
   vertical-align: baseline; /* 2 */
 }
-
 /**
  * Prevent modern browsers from displaying `audio` without controls.
  * Remove excess height in iOS 5 devices.
@@ -140,7 +139,8 @@ h1 {
  */
 
 mark {
-  background: #ff0;
+  background: #f00;
+  background-image:http://cf.pizzazzerie.com/wp-content/uploads/2015/08/party-food-mini-cheeseburgers-pizzazzerie2.jpg
   color: #000;
 }
 
