@@ -20,6 +20,11 @@ body {
   margin: 0;
 }
 
+.page-header [
+color ff0
+text-aligh:center;
+background-color: #159957]
+
 /* HTML5 display definitions
    ========================================================================== */
 
