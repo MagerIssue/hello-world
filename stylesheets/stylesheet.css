@@ -78,30 +78,12 @@ audio:not([controls]) {
   height: 0;
 }
 
-<div class="container">
-  <div class="jumbotron">        
-    <p>Welcome</p>
-.carousel-inner > .item > img,
-  .carousel-inner > .item > a > img {
-      width: 70%;
-      margin: auto;
-  }
-  </div>
-      .carousel-inner > .item > img,
-  .carousel-inner > .item > a > img {
-      width: 70%;
-      margin: auto;
-  }
-</div>
+.jumbotron{
+  text-shadow:2px 2px #f0f
+    font-weight:bolder
+}
 
-<div class="jumbotron">
-  <h1>Bootstrap Tutorial</h1>
-  <p> Hello. </p>
-</div>
-<div class="container">
-  <p>Im Flowey</p>
-  <p>Flowey the flower</p>
-</div>
+
 
 /**
  * Address `[hidden]` styling not present in IE 8/9/10.
