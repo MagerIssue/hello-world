@@ -79,8 +79,7 @@ audio:not([controls]) {
 }
 
 <div class="container">
-  <div class="jumbotron">
-    <h1>Bootstrap Tutorial</h1>      
+  <div class="jumbotron">        
     <p>Welcome</p>
 .carousel-inner > .item > img,
   .carousel-inner > .item > a > img {
@@ -88,8 +87,11 @@ audio:not([controls]) {
       margin: auto;
   }
   </div>
-  <p>This is some text.</p>      
-  <p>This is another text.</p>      
+      .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
 </div>
 
 
