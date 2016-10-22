@@ -19,11 +19,14 @@ html {
 body {
   margin: 0;
 }
-
 .page-header [
-color ff0
+margin:0px;
+height:70%; 
+padding:0px;
+color ff0;
 text-aligh:center;
-background-color: #159957]
+background-color: #159957
+]
 
 /* HTML5 display definitions
    ========================================================================== */
@@ -62,6 +65,9 @@ video {
   display: inline-block; /* 1 */
   vertical-align: baseline; /* 2 */
 }
+
+
+
 /**
  * Prevent modern browsers from displaying `audio` without controls.
  * Remove excess height in iOS 5 devices.
