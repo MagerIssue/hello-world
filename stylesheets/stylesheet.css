@@ -94,7 +94,14 @@ audio:not([controls]) {
   }
 </div>
 
-
+<div class="jumbotron">
+  <h1>Bootstrap Tutorial</h1>
+  <p> Hello. </p>
+</div>
+<div class="container">
+  <p>Im Flowey</p>
+  <p>Flowey the flower</p>
+</div>
 
 /**
  * Address `[hidden]` styling not present in IE 8/9/10.
